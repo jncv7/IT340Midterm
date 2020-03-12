@@ -1,0 +1,177 @@
+    1  cat mywork.txt 
+    2  clear
+    3  crontab
+    4  clear
+    5  crontab -e
+    6  cd /tmp
+    7  ls
+    8  crontab -e
+    9  cd ~
+   10  cd /tmp/crontab.gfVunF/crontab
+   11  cat /tmp/crontab.gfVunF/crontab
+   12  crontab -e
+   13  clear
+   14  cd /var
+   15  ls
+   16  cd poool
+   17  cd spool
+   18  ls
+   19  cd cron
+   20  ls
+   21  nano crontabs
+   22  cd crontabs/
+   23  sudo cd crontabs
+   24  sudo cd crontabs/
+   25  nano cd crontabs
+   26  ls
+   27  cd crontabs
+   28  sudo cd crontabs
+   29  cd ~
+   30  crontab -e
+   31  clear
+   32  crontab -e
+   33  pwd
+   34  crontab /home/vagrant/midtermCron
+   35  crontab -l
+   36  ls -la /etc/cron.daily
+   37  clear
+   38  less /etc/crontab
+   39  clear
+   40  less /etc/crontab
+   41  clear
+   42  ls
+   43  cd /tmp
+   44  ls
+   45  cd crontab.q8LKuq/
+   46  ls
+   47  nano crontab
+   48  ls
+   49  git
+   50  git status
+   51  clear
+   52  ls
+   53  cd ~
+   54  ls
+   55  cd IT340
+   56  ls
+   57  nano README.md 
+   58  ls
+   59  cd /tmp
+   60  ls
+   61  cd crontab.q8LKuq/
+   62  ls
+   63  cd ~
+   64  ls
+   65  cd IT340/
+   66  pwd
+   67  clear
+   68  pwd
+   69  ls
+   70  clera
+   71  clear
+   72  pwd
+   73  cd ~
+   74  cd /tmp
+   75  ls
+   76  cd crontab.q8LKuq/
+   77  ls
+   78  mv crontab /home/vagrant/IT340
+   79  ls
+   80  cd ~
+   81  ls
+   82  cd IT340/
+   83  ls
+   84  cd ..
+   85  htop
+   86  clear
+   87  top
+   88  lear
+   89  clear
+   90  ps aux
+   91  clear
+   92  ls
+   93  cd IT340/
+   94  git status
+   95  cd add crontab
+   96  git add crontab
+   97  ls
+   98  git commit -m "this is the crontab"
+   99  git push origin master
+  100  clear
+  101  ls
+  102  cd ~
+  103  ls
+  104  cat instructions.txt 
+  105  clear
+  106  sudo apt install rsyslog
+  107  cat instructions.txt 
+  108  cler
+  109  clear
+  110  ls
+  111  cd IT340/
+  112  ls
+  113  touch history.txt
+  114  echo history > history.txt
+  115  cat history.txt 
+  116  history >> history.txt
+  117  cat history.txt 
+  118  clear
+  119  ls
+  120  loutgot
+  121  logout
+  122  exit
+  123  ls
+  124  cat instructions.txt 
+  125  ls
+  126  cat mywork.txt 
+  127  clear
+  128  ls
+  129  script mywork.txt -f
+  130  ls
+  131  cat instructions.txt 
+  132  cler
+  133  clear
+  134  sl
+  135  ls
+  136  cat instructions.txt 
+  137  cd /etc/rsyslog.d
+  138  ls
+  139  touch apache.conf
+  140  sudo touch apache.conf
+  141  ls
+  142  sudo nano apache.conf 
+  143  ls
+  144  nano apache.conf 
+  145  clear
+  146  ls
+  147  touch midterm.conf
+  148  sudo touch midterm.conf
+  149  ls
+  150  nano midterm.conf 
+  151  pwd
+  152  cd ~
+  153  ls
+  154  pwd
+  155  cd /etc/rsyslog.d
+  156  ls
+  157  sudo nano midterm.conf
+  158  ls
+  159  cd ~
+  160  ls
+  161  mkdir log
+  162  ls
+  163  cd /etc/rsyslog.d
+  164  ls
+  165  sudo nano midterm.conf
+  166  ls
+  167  cd ~
+  168  cd logs
+  169  cd log
+  170  ls
+  171  cd ~
+  172  sudo cat instructions.txt 
+  173  clear
+  174  cd IT340/
+  175  als
+  176  ls
+  177  history >> history2.txt
